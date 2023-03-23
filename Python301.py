@@ -49,7 +49,6 @@ while True:
         if action == "check balance":
             pass
         
-       
         
         print(f"Your balance is", account.balance)
 
